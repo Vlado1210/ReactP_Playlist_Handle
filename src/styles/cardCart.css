@@ -1,0 +1,24 @@
+.searchCard{
+    display: inline-flex;
+    margin-bottom: 15px;
+    border: solid 1px;
+}
+
+.searchCard img{
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 8px;
+}
+
+.hype{
+    background-color: #de1515;
+  }
+.sad{
+    background-color: #0c3ef2;
+  }
+.party{
+    background-color: #f20cee;
+  }
+.chill{
+    background-color: #b06f12;
+  }

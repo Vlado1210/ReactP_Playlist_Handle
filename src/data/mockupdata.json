@@ -1,0 +1,104 @@
+{
+    "tracks": [
+      {
+        "data": {
+          "uri": "spotify:track:4MjDJD8cW7iVeWInc2Bdyj",
+          "id": "4MjDJD8cW7iVeWInc2Bdyj",
+          "name": "MONACO",
+          "albumOfTrack": {
+            "uri": "spotify:album:4FftCsAcXXD1nFO9RFUNFO",
+            "name": "nadie sabe lo que va a pasar mañana",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e027b1fc51ff3257b5286a1ecec",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048517b1fc51ff3257b5286a1ecec",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "4FftCsAcXXD1nFO9RFUNFO"
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+                "profile": {
+                  "name": "Bad Bunny"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 267194
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1IHWl5LamUGEuP4ozKQSXZ",
+          "id": "1IHWl5LamUGEuP4ozKQSXZ",
+          "name": "Tití Me Preguntó",
+          "albumOfTrack": {
+            "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5",
+            "name": "Un Verano Sin Ti",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "3RQQmkQEvNCY4prGKE6oc5"
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+                "profile": {
+                  "name": "Bad Bunny"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 243716
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      }
+    ]
+  }

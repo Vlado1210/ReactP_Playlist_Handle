@@ -1,0 +1,43 @@
+.card {
+    max-width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+
+.liked{
+    background-color: #154e05;
+    width: auto;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+.card.hype{
+  background-color: #de1515;
+}
+.card.sad{
+  background-color: #0c3ef2;
+}
+
+.card.party{
+  background-color: #f20cee;
+}
+
+.card.chill{
+  background-color: #b06f12;
+}
+
+  .scrollable-list {
+    max-height: 150px;
+    overflow-y: auto;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
